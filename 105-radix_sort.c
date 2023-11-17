@@ -1,4 +1,5 @@
 #include "sort.h"
+#include <stdint.h>
 
 /**
  * getMax - Returns the maximum element from an array
